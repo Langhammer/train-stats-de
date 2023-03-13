@@ -1,0 +1,11 @@
+[project]
+name = tsde
+version = "0.1.0"
+description = Analysis of the passenger train network in Germany.
+authors = [
+    {name = "Kay Langhammer", email = "kaylanghammer@outlook.de"},
+]
+dependencies = []
+
+license = {text = ""}
+requires-python = ">=3.10"
