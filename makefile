@@ -5,7 +5,7 @@ BLACK = black
 NB_DIR = notebooks
 
 # List all Python source files in the notebooks subfolder
-NB_PY_FILES = $(wildcard $(NB_DIR)/*.py)
+NB_PY_FILES = $(wildcard $(NB_DIR)/nb_*.py)
 
 .PHONY: all
 
