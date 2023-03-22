@@ -1,7 +1,7 @@
 [project]
-name = tsde
+name = "tsde"
 version = "0.1.0"
-description = Analysis of the passenger train network in Germany.
+description = "Analysis of the passenger train network in Germany."
 authors = [
     {name = "Kay Langhammer", email = "kaylanghammer@outlook.de"},
 ]
