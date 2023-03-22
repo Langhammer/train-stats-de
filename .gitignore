@@ -141,3 +141,4 @@ data/processed/TEST*
 # The directory has to stay, however, to save the figures in testing.
 images/test/*
 !images/test/.gitkeep
+notebooks/credentials.py
